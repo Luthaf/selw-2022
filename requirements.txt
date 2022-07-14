@@ -1,0 +1,15 @@
+jupyter
+
+matplotlib
+sympy
+numpy
+sklearn
+
+ase
+
+chemiscope
+wigners
+
+--extra-index-url https://luthaf.fr/temporary-wheels/
+rascaline
+equistore

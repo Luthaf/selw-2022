@@ -1,0 +1,7 @@
+virtualenv/
+.ipynb_checkpoints/
+
+Equistore.key
+Equistore.pdf
+
+*.npz
